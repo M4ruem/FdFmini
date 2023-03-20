@@ -8,7 +8,7 @@ In this project we need to create a 3D model of a map using the MiniLibx
 git clone <FdF>
 ```
 
-##Compile
+## Compile
 
 ```bash
 make
