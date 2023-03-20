@@ -19,4 +19,4 @@ make
 ```bash
 ./fdf test_maps/<map_you_want.fdf>
 ```
-Enjoy
+Enjoy ;)
